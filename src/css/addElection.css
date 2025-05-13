@@ -1,0 +1,43 @@
+
+
+.main-addElection-Container{
+     width: 100%;
+    margin: 50px auto;
+    
+
+}
+
+.main-addElection-Container form .add-election-form-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    gap: 10px;
+}
+
+form{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+@media screen and (min-width:499px) {
+    .main-addElection-Container form{
+        width: 50%;
+         margin:auto;
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
+
+.notification-block{
+     width: 80%;
+    margin: 15px auto;
+    padding: 15px;
+    color: rgb(60, 160, 60);
+    background-color: white;
+
+    font: bold;
+    
+}

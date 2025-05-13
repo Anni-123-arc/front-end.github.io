@@ -1,0 +1,45 @@
+/* components/ContactFAQ.css */
+.faq-item {
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.faq-item:hover {
+  background-color: #f0f4fc;
+}
+
+.faq-question {
+  margin-bottom: 5px;
+  color: #333;
+  transition: color 0.3s;
+    font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+  color: #555;
+  margin: 0;
+   font-size: 16px;
+  padding-left: 10px;
+}
+
+/* Reveal answer on hover */
+.faq-item:hover .faq-answer {
+  max-height: 100px; /* enough for 2-3 lines */
+}
+
+.div-login-center{
+    width: 95%;
+  max-width: 700px; /* Increased from 400px */
+  margin: 40px auto;
+  padding: 30px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  border-radius: 15px;
+  background-color: white;
+}

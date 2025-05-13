@@ -1,0 +1,37 @@
+.Main-container{
+     
+    width: 100%;
+      
+
+
+}
+
+
+.inner-Menu-container{
+    border: 5px solid;
+    width: 25%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.Menu-items{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Menu-items li {
+    border: 5px black;
+    padding: 15px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    width: 200px;
+    cursor: pointer;
+}

@@ -1,0 +1,55 @@
+
+.main-hero-container{
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #98b9fe;
+    height: fit-content;
+    padding: 10px;
+
+
+}
+
+@media screen and (max-width:685px) {
+    .main-hero-container{
+        display: flex;
+        flex-direction: column-reverse;
+        width:100%;
+    }
+}
+
+.main-hero-sub-container{
+    width: 50%;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #98b9fe;
+}
+
+@media screen and (min-width:1024px) {
+    .main-hero-sub-container q{
+        font-size: 200%;
+    }
+}
+
+.main-hero-sub-container img{
+    width: 100%;
+    height: 25%;
+}
+
+.main-hero-sub-container .main-hero-container-btn .btn-h{
+  display: flex;
+  flex-direction: row;
+
+  
+}
+
+
+@media screen and (max-width:500px) {
+    .main-main{
+        width: 105%;
+    }
+}
