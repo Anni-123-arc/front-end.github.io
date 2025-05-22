@@ -18,7 +18,7 @@
   },
   
  
-  "proxy": "http://localhost:5000",
+  "proxy": "https://server-af5u.onrender.com",
   "homepage": "https://Anni-123-arc.github.io/front-end.github.io",
 
   "scripts": {
