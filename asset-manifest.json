@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/front-end.github.io/static/css/main.05fc6a39.css",
+    "main.js": "/front-end.github.io/static/js/main.3a573c34.js",
+    "static/js/453.f7be5b23.chunk.js": "/front-end.github.io/static/js/453.f7be5b23.chunk.js",
+    "static/media/ElectraVote Logo Design.png": "/front-end.github.io/static/media/ElectraVote Logo Design.2bec9fcdf1250e4b221f.png",
+    "static/media/istockphoto-1316050037-1024x1024-removebg-preview.png": "/front-end.github.io/static/media/istockphoto-1316050037-1024x1024-removebg-preview.84a612d9a303c30175ba.png",
+    "index.html": "/front-end.github.io/index.html",
+    "main.05fc6a39.css.map": "/front-end.github.io/static/css/main.05fc6a39.css.map",
+    "main.3a573c34.js.map": "/front-end.github.io/static/js/main.3a573c34.js.map",
+    "453.f7be5b23.chunk.js.map": "/front-end.github.io/static/js/453.f7be5b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05fc6a39.css",
+    "static/js/main.3a573c34.js"
+  ]
+}
